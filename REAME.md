@@ -8,3 +8,5 @@ SuperDARN radars.
 
 Outside of my work and education, I enjoy playing sports, cooking, and playing board games with my wife and our friends.
 I also love watching movies, especially anything with a twist ending or directed by Christopher Nolan.
+
+![Profile image](rem_headshot1.jpg)
