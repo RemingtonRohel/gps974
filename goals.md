@@ -6,7 +6,6 @@ I know that reading alone is not enough to learn though - I have to practice! So
 with a project that excites me and implement it in Rust. Knowing another programming language, and one that is becoming
 more prominent in the community, will be an asset for me in my professional career.
 
-### How will I achieve this?
 My roadmap for this goal is:
 1. Find a project that I can solve with software and am excited about
 2. Break that project into manageable milestones
@@ -18,7 +17,6 @@ in order to force myself to think hard about what I want in my life and career, 
 As a deliverable for this goal, I want to procure a document cataloguing several high-level goals for myself to be 
 completed in the next 5 years.
 
-### How will I achieve this?
 My roadmap for this goal is:
 1. Learn more about the career options I have available to me with my interests and education
 2. Put some thought into what I want to do, what is important to me in a job, and what is best for my wife and I. 
@@ -30,7 +28,6 @@ while being realistic that with social commitments and homework I won't always b
 night. This goal will help to improve my health and also time management as I learn to prioritize tasks and
 set deadlines for myself in order to meet my sleep goals. 
 
-### How will I achieve this?
 My roadmap for this goal is:
 1. Work on hitting 7.5 hours of sleep at least twice per week. This should be easy.
 2. Start being more diligent with my homework to avoid staying up late to finish it. There are enough hours in the week, if I don't squander them.
