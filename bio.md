@@ -27,4 +27,4 @@ Prospecting
 
 Assertive
 
-You can read about the different traits [here.](https://www.16personalities.com/articles/our-theory#aspects)
+More information about these traits can be found [here.](https://www.16personalities.com/articles/our-theory#aspects)
