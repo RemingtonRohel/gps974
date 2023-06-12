@@ -3,11 +3,11 @@
 ![Profile image](professional_headshot_scaled.png)
 
 ## Biography
-Genius, billionaire, playboy, philanthropist. I am an Engineer-in-Training with SuperDARN Canada, working primarily on 
-software development with emphasis on new capabalities for our digital HF radars. I graduated in 2021 from the
-University of Saskatchewan with a degree in Engineering Physics. Professionally, I strive to be an expert on the projects
-I participate in and exhibit excellence in my work. Personally, I love to learn, particularly new skills in my work and
-new recipes in my kitchen.
+I am an Engineer-in-Training with SuperDARN Canada, working primarily on 
+software development with emphasis on new capabilities for our digital HF radars. I graduated in 2021 from the
+University of Saskatchewan with a dual degree in Engineering Physics and Computer Science. Professionally, I strive to be an expert on the projects
+I participate in and exhibit excellence in my work. I am passionate about writing clean software and pushing the boundaries of the systems I work on.
+Personally, I love to learn, particularly new skills in my work and new recipes in my kitchen.
 
 ## Clifton Strengths
 
