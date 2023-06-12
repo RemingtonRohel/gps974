@@ -11,7 +11,7 @@ Personally, I love to learn, particularly new skills in my work and new recipes 
 
 ## Clifton Strengths
 
-[Clifton Strengths](CliftonStrenthsThemes.pdf)
+[Clifton Strengths](CliftonStrengthsThemes.pdf)
 
 ## MBTI Personality Results
 
