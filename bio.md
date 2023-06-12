@@ -17,12 +17,14 @@ Personally, I love to learn, particularly new skills in my work and new recipes 
 
 ESFP-A: The Entertainer
 
-Extraversion
+Extraverted
 
-Sensing
+Observant
 
 Feeling
 
-Perceiving
+Prospecting
 
 Assertive
+
+You can read about the different traits [here.](https://www.16personalities.com/articles/our-theory#aspects)
