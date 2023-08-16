@@ -13,6 +13,10 @@ My roadmap for this goal is:
 
 This goal will help me in my career development by forging a new skill that increases my competence as a programmer.
 
+### Artifacts
+
+The work I've done so far is all visible on a [GitHub repository](https://github.com/RemingtonRohel/backscatter-rs).
+
 ## Make a 5 year plan
 I know that planning for my future is an area that I could afford to grow in. I want to develop a 5 year plan
 in order to force myself to think hard about what I want in my life and career, and what I need to change to get there.
@@ -38,3 +42,8 @@ My roadmap for this goal is:
 3. Meal plan more efficiently - Dedicating a day to making meals for the week takes up a lot less time than making individual meals each day or two.
 
 This goal will help me develop better wellness and life balance to become a more healthy person.
+
+### Artifacts
+
+<img src="https://github.com/RemingtonRohel/gps974/assets/77300402/69ef8ef0-7579-46eb-9b10-ad364e6c2e1c" width="700">
+
