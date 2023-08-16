@@ -14,8 +14,13 @@ I also love watching movies, especially anything with a twist ending or directed
 ## Quick Links
 
 [Bio](https://github.com/RemingtonRohel/gps974/blob/main/bio.md)
+
 [Mission](https://github.com/RemingtonRohel/gps974/blob/main/mission.md)
+
 [Goals](https://github.com/RemingtonRohel/gps974/blob/main/goals.md)
+
 [Clifton Strengths](https://github.com/RemingtonRohel/gps974/blob/main/CliftonStrengthsInsight.pdf)
+
 [Reflective Essay](https://github.com/RemingtonRohel/gps974/blob/main/Reflections.md)
+
 [Poster](https://github.com/RemingtonRohel/gps974/blob/main/Final%20Poster.pdf)
