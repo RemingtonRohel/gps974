@@ -26,3 +26,5 @@ I also love watching movies, especially anything with a twist ending or directed
 [Reflective Essay](https://github.com/RemingtonRohel/gps974/blob/main/Reflections.md)
 
 [Poster](https://github.com/RemingtonRohel/gps974/blob/main/Final%20Poster.pdf)
+
+[LinkedIn](https://ca.linkedin.com/in/remingtonrohel)
